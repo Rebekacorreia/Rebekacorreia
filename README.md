@@ -1,7 +1,7 @@
 ## Oir, eu sou a Rebeka Correia
 
 - 🔭 Atualmente estou cursando Ciência da Computação.
-- 🌱 Estudando CSS.
+- 🌱 Estudando HTML, CSS, Java e C#.
 - 🔗 https://beacons.page/rebekacorreia
 <div style="display: inline_block"><br>
   <img align="center" alt="Beka-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
