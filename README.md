@@ -1,4 +1,4 @@
-## Oir, eu sou a Rebeka Correia
+## Oi, eu sou a Rebeka Correia
 
 - 🔭 Atualmente estou cursando Ciência da Computação.
 - 🌱 Estudando HTML, CSS e Java.
