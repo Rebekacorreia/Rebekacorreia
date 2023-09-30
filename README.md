@@ -1,7 +1,7 @@
-## Oi, eu sou a Rebeka Correia
+## Hello, I'm Rebeka Correia
 
-- 🔭 Atualmente estou cursando Ciência da Computação.
-- 🌱 Estudando Java.
+- 🔭 Computer Science.
+- 🌱 Learning.
 - 🔗 https://beacons.page/rebekacorreia
 - Beginner 
 
