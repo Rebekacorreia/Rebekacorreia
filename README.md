@@ -1,9 +1,9 @@
 ## Hello, I'm Rebeka Correia
 
 - 🔭 Computer Science.
+- 📈 Data Analyst.
 - 🌱 Learning.
 - 🔗 https://beacons.page/rebekacorreia
-- Beginner 
 
 <div>
   <a href="https://www.instagram.com/rbk.corr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
