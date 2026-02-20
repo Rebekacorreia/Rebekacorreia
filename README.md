@@ -2,7 +2,7 @@
 
 - 🔭 Computer Science.
 - 📈 Data Analyst.
-- 🌱 Learning.
+- 🌱 Python, SQL, POWER BI.
 - 🔗 https://beacons.page/rebekacorreia
 
 <div>
